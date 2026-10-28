@@ -1,0 +1,21 @@
+{
+    "Students":
+    [
+        {
+            "name":"Ahmad",
+            "matricNo":"AI00001",
+            "age":22,
+            "address":"Kuala Lumpur",
+            "subjects":["Web Development","Database","Java"]
+        },
+        {    
+        
+            "name":"Steve",
+            "matricNo":"AI00002",
+            "age":25,
+            "address":"California",
+            "subjects":["Python","Node.js","Flutter"]
+
+        }
+    ]
+}
